@@ -1,0 +1,17 @@
+C:\Users\jakub\source\repos\MWittkeColors\MWittkeColors\bin\Debug\net6.0-windows\MWittkeColors.exe
+C:\Users\jakub\source\repos\MWittkeColors\MWittkeColors\bin\Debug\net6.0-windows\MWittkeColors.deps.json
+C:\Users\jakub\source\repos\MWittkeColors\MWittkeColors\bin\Debug\net6.0-windows\MWittkeColors.runtimeconfig.json
+C:\Users\jakub\source\repos\MWittkeColors\MWittkeColors\bin\Debug\net6.0-windows\MWittkeColors.dll
+C:\Users\jakub\source\repos\MWittkeColors\MWittkeColors\bin\Debug\net6.0-windows\MWittkeColors.pdb
+C:\Users\jakub\source\repos\MWittkeColors\MWittkeColors\obj\Debug\net6.0-windows\MWittkeColors.csproj.AssemblyReference.cache
+C:\Users\jakub\source\repos\MWittkeColors\MWittkeColors\obj\Debug\net6.0-windows\MWittkeColors.csproj.GenerateResource.cache
+C:\Users\jakub\source\repos\MWittkeColors\MWittkeColors\obj\Debug\net6.0-windows\MWittkeColors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\source\repos\MWittkeColors\MWittkeColors\obj\Debug\net6.0-windows\MWittkeColors.AssemblyInfoInputs.cache
+C:\Users\jakub\source\repos\MWittkeColors\MWittkeColors\obj\Debug\net6.0-windows\MWittkeColors.AssemblyInfo.cs
+C:\Users\jakub\source\repos\MWittkeColors\MWittkeColors\obj\Debug\net6.0-windows\MWittkeColors.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\MWittkeColors\MWittkeColors\obj\Debug\net6.0-windows\MWittkeColors.dll
+C:\Users\jakub\source\repos\MWittkeColors\MWittkeColors\obj\Debug\net6.0-windows\refint\MWittkeColors.dll
+C:\Users\jakub\source\repos\MWittkeColors\MWittkeColors\obj\Debug\net6.0-windows\MWittkeColors.pdb
+C:\Users\jakub\source\repos\MWittkeColors\MWittkeColors\obj\Debug\net6.0-windows\MWittkeColors.genruntimeconfig.cache
+C:\Users\jakub\source\repos\MWittkeColors\MWittkeColors\obj\Debug\net6.0-windows\ref\MWittkeColors.dll
+C:\Users\jakub\source\repos\MWittkeColors\MWittkeColors\obj\Debug\net6.0-windows\MWittkeColors.MWColors.resources

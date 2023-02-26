@@ -1,0 +1,17 @@
+C:\Users\jakub\source\repos\LvdwiczakColors\LvdwiczakColors\bin\Debug\net6.0-windows\LvdwiczakColors.exe
+C:\Users\jakub\source\repos\LvdwiczakColors\LvdwiczakColors\bin\Debug\net6.0-windows\LvdwiczakColors.deps.json
+C:\Users\jakub\source\repos\LvdwiczakColors\LvdwiczakColors\bin\Debug\net6.0-windows\LvdwiczakColors.runtimeconfig.json
+C:\Users\jakub\source\repos\LvdwiczakColors\LvdwiczakColors\bin\Debug\net6.0-windows\LvdwiczakColors.dll
+C:\Users\jakub\source\repos\LvdwiczakColors\LvdwiczakColors\bin\Debug\net6.0-windows\LvdwiczakColors.pdb
+C:\Users\jakub\source\repos\LvdwiczakColors\LvdwiczakColors\obj\Debug\net6.0-windows\LvdwiczakColors.csproj.AssemblyReference.cache
+C:\Users\jakub\source\repos\LvdwiczakColors\LvdwiczakColors\obj\Debug\net6.0-windows\LvdwiczakColors.csproj.GenerateResource.cache
+C:\Users\jakub\source\repos\LvdwiczakColors\LvdwiczakColors\obj\Debug\net6.0-windows\LvdwiczakColors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\source\repos\LvdwiczakColors\LvdwiczakColors\obj\Debug\net6.0-windows\LvdwiczakColors.AssemblyInfoInputs.cache
+C:\Users\jakub\source\repos\LvdwiczakColors\LvdwiczakColors\obj\Debug\net6.0-windows\LvdwiczakColors.AssemblyInfo.cs
+C:\Users\jakub\source\repos\LvdwiczakColors\LvdwiczakColors\obj\Debug\net6.0-windows\LvdwiczakColors.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\LvdwiczakColors\LvdwiczakColors\obj\Debug\net6.0-windows\LvdwiczakColors.dll
+C:\Users\jakub\source\repos\LvdwiczakColors\LvdwiczakColors\obj\Debug\net6.0-windows\refint\LvdwiczakColors.dll
+C:\Users\jakub\source\repos\LvdwiczakColors\LvdwiczakColors\obj\Debug\net6.0-windows\LvdwiczakColors.pdb
+C:\Users\jakub\source\repos\LvdwiczakColors\LvdwiczakColors\obj\Debug\net6.0-windows\LvdwiczakColors.genruntimeconfig.cache
+C:\Users\jakub\source\repos\LvdwiczakColors\LvdwiczakColors\obj\Debug\net6.0-windows\ref\LvdwiczakColors.dll
+C:\Users\jakub\source\repos\LvdwiczakColors\LvdwiczakColors\obj\Debug\net6.0-windows\LvdwiczakColors.Colors.resources
